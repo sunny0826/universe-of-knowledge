@@ -1,43 +1,27 @@
-# Table of contents
+# 目录
 
-* [sunny0826/universe-of-knowledge](README.md)
-* [sunny0826/universe-of-knowledge](sunny0826-universe-of-knowledge.md)
-* [sunny0826/universe-of-knowledge](sunny0826-universe-of-knowledge-1.md)
-* [network](network/README.md)
-  * [sunny0826/universe-of-knowledge](network/sunny0826-universe-of-knowledge.md)
-* [sunny0826/universe-of-knowledge](sunny0826-universe-of-knowledge-2.md)
-* [sunny0826/universe-of-knowledge](sunny0826-universe-of-knowledge-3.md)
-* [sunny0826/universe-of-knowledge](sunny0826-universe-of-knowledge-4.md)
-* [sunny0826/universe-of-knowledge](sunny0826-universe-of-knowledge-5.md)
-* [Build software better, together](build-software-better-together.md)
-* [sunny0826/universe-of-knowledge](sunny0826-universe-of-knowledge-6.md)
-* [sunny0826/universe-of-knowledge](sunny0826-universe-of-knowledge-7.md)
-* [sunny0826/universe-of-knowledge](sunny0826-universe-of-knowledge-8.md)
-* [find](find/README.md)
-  * [sunny0826/universe-of-knowledge](find/sunny0826-universe-of-knowledge.md)
-* [archive](archive/README.md)
-  * [Bad request · GitHub](archive/bad-request-github.md)
-* [commits](commits/README.md)
-  * [sunny0826/universe-of-knowledge](commits/sunny0826-universe-of-knowledge.md)
-* [tree](tree/README.md)
-  * [sunny0826/universe-of-knowledge](tree/sunny0826-universe-of-knowledge.md)
-  * [master](tree/master/README.md)
-    * [sunny0826/universe-of-knowledge](tree/master/sunny0826-universe-of-knowledge.md)
-    * [sunny0826/universe-of-knowledge](tree/master/sunny0826-universe-of-knowledge-1.md)
-    * [sunny0826/universe-of-knowledge](tree/master/sunny0826-universe-of-knowledge-2.md)
-    * [sunny0826/universe-of-knowledge](tree/master/sunny0826-universe-of-knowledge-3.md)
-    * [static](tree/master/static/README.md)
-      * [mind](tree/master/static/mind/README.md)
-        * [sunny0826/universe-of-knowledge](tree/master/static/mind/sunny0826-universe-of-knowledge.md)
-    * [sunny0826/universe-of-knowledge](tree/master/sunny0826-universe-of-knowledge-4.md)
-* [blob](blob/README.md)
-  * [master](blob/master/README.md)
-    * [sunny0826/universe-of-knowledge](blob/master/sunny0826-universe-of-knowledge.md)
-    * [sunny0826/universe-of-knowledge](blob/master/sunny0826-universe-of-knowledge-1.md)
-    * [sunny0826/universe-of-knowledge](blob/master/sunny0826-universe-of-knowledge-2.md)
-    * [sunny0826/universe-of-knowledge](blob/master/sunny0826-universe-of-knowledge-3.md)
-    * [sunny0826/universe-of-knowledge](blob/master/sunny0826-universe-of-knowledge-4.md)
-    * [sunny0826/universe-of-knowledge](blob/master/sunny0826-universe-of-knowledge-5.md)
-    * [sunny0826/universe-of-knowledge](blob/master/sunny0826-universe-of-knowledge-6.md)
-* [sunny0826/universe-of-knowledge](sunny0826-universe-of-knowledge-9.md)
+* [介紹](README.md)
 
+## 基础知识
+
+* [计算机系统](system/README.md)
+    * [进程与线程](system/processes&threads/README.md)
+        * [进程](system/processes&threads/process.md)
+        * [线程](system/processes&threads/thread.md)
+        * [调度算法](system/processes&threads/scheduling_algorithm.md)
+        * [进程间通信](system/processes&threads/communications.md)
+    * [锁](system/lock/README.md)
+* [计算机网络](network/README.md)
+* [算法](algorithms/README.md)
+
+## 编程语言
+
+* [Golang](golang/README.md)
+
+## 进阶实践
+
+* [云原生](cloudnative/README.md)
+
+## 附录
+
+* [概念](GOLOSSARY.md)

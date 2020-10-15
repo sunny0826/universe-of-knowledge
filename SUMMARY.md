@@ -21,6 +21,10 @@
 ## 进阶实践
 
 * [云原生](cloudnative/README.md)
+    * [图解 Kubernetes](cloudnative/kubernetes/README.md)
+        * [Deployment Controller 篇](cloudnative/kubernetes/diagrams-k8s-src-deployment-controller/index.md)
+        * [Informer 篇（上）](cloudnative/kubernetes/diagrams-k8s-src-informer/index.md)
+        * [QoS 篇](cloudnative/kubernetes/diagrams-k8s-src-qos/index.md)
 
 ## 附录
 

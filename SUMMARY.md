@@ -17,6 +17,7 @@
 ## 编程语言
 
 * [Golang](golang/README.md)
+    * [垃圾回收机制](golang/gc.md)
 
 ## 进阶实践
 
